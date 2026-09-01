@@ -1,2 +1,63 @@
-readme.txt
+# Unity generated folders
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/[Mm]emoryCaptures/
+/[Rr]ecordings/
 
+# IDE and editor settings
+/.idea/
+/.vs/
+/.vscode/
+*.sln.iml
+*.csproj
+*.sln
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.opendb
+*.VC.db
+*.unityproj
+
+# Generated debug and build artifacts
+*.pdb
+*.mdb
+*.pdb.meta
+*.mdb.meta
+*.tmp
+*.log
+*.stackdump
+/[Dd]ebug/
+/[Rr]elease/
+/artifacts/
+
+# Unity build outputs and generated packages
+*.apk
+*.aab
+*.app
+*.unitypackage
+
+# Signing files and machine-local configuration
+*.keystore
+*.jks
+crashlytics-build.properties
+sysinfo.txt
+
+# Operating system files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+Desktop.ini
+
+/Assets/Store
